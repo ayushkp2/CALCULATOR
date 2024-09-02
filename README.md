@@ -1,4 +1,4 @@
-# Project Name
+# CALCULATOR
 
 You can view the live demo of this project here: [Project Demo](https://num-solver.netlify.app)
 
